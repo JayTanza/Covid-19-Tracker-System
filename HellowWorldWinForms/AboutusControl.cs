@@ -41,7 +41,7 @@ namespace HellowWorldWinForms
             //}
             //else
             //{
-            //    count = 0;
+            //    count = 0; yeahh
             //}
         }
         int xcount = -1;
